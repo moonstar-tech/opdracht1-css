@@ -1,0 +1,23 @@
+body {
+    color: rgb(193, 119, 253);
+
+    font-family:pacifico,cursive;
+    font-size:25px;
+}
+
+h1 {
+    background-color: rgb(112, 102, 255);
+}
+
+.black-border {
+    border: 5px solid black;
+}
+#green-background {
+    background-color: rgb(202, 241, 232);
+}
+main {
+    color:black;
+}
+.para1 { 
+    color:rgb(193, 119, 253);
+}
