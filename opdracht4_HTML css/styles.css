@@ -3,10 +3,13 @@ body {
 
     font-family:pacifico,cursive;
     font-size:25px;
+    margin:auto;
+
+    padding: 25px;
 }
 
 h1 {
-    background-color: rgb(112, 102, 255);
+    background-color: rgb(192, 188, 255);
 }
 
 .black-border {
@@ -17,7 +20,28 @@ h1 {
 }
 main {
     color:black;
+    margin:auto;
 }
 .para1 { 
     color:rgb(193, 119, 253);
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
